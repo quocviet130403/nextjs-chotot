@@ -185,7 +185,7 @@
 }
 
 .list-products .item{
-    width: calc(50% - 2px);
+    width:50%;
     text-align: center;
     border: 1px solid #ededed;
     padding: 12px 0px;
